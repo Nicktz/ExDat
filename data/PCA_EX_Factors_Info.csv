@@ -1,0 +1,99 @@
+Index,DescriptionShort,Description,Calc,Location
+MXWO0RE Index,MSCI_EM_Reits,MSCI Emerging Markets REITs Trust USD,Return,EM
+V2X Index,EUVIX,Euro VIX,Return,EU
+M1WDEWGT Index,MSCI_EQ_World,The MSCI ACWI Equal Weighted Net index (USD) is an alternative to market capitalization-weighted indices. Each security is weighted equally at each quarterly rebalance. Weights may fluctuate between rebalancings based on the performance of each security.,Return,Global
+VXEEM Index,EMVIX,EM VIX CBOE EM ETF Implied Vol,Return,EM
+CESIEM Index,CESIEM,EM Citi Econ Surprize Index,Abs,EM
+SPXT Index,SP500,SP500,Return,US
+CESIUSD Index,CESIUSD,US Citi Econ Surprize Index,Abs,US
+JPEIGLBL INDEX,EMBI,JPMORGAN EM BOND INDEX,Return,EM
+CO1 Comdty,BrentCO1_Fut,Brent Crude Oil,Return,General
+CESIEUR Index,CESIEUR,EU Citi Econ Surprize Index,Abs,EU
+MXEF0CX0 Index,MSCIEM_Curncy,The MSCI EM Currency Index sets the weights of each currency equal to the relevant country weight in the MSCI EM Index.,Return,EM
+SXXE Index,EUR600,EURO Stoxx,Return,EU
+XAU Curncy,Gold_Spot,Gold Spot,Return,General
+FTAW01 Index,FTSE_AllWorld,"FTSE All-World Index is a free float market cap weighted index representing the performance of the large & mid cap stocks from the FTSE Global Equity Index Series. The index covers Developed & Emerging Markets. Base Value 100 as at December 31, 1986.",Return,Global
+GTEUR10Y Govt,EU10YBond,Current EU 10Y Bund,delta,DM
+CESICNY Index,CESICNY,China Citi Econ Surprize Index,Abs,China
+MXWO Index,MXWO_Ex_EM,"The MSCI World Index is a free-float weighted equity index. It was developed with a base value of 100 as of December 31, 1969. MXWO includes developed world markets, and does not include emerging markets. MXWD includes both emerging and developed markets.",Return,DM
+USGG10YR Index,US10YBond,US 10Y Bond,delta,US
+VIX Index,VIX,VIX,Return,US
+TJA30U Index,All_Africa_Ex_ZA,All Africa Ex ZA,Return,Africa
+GC1 Comdty,Gold_Fut,Gold Spot Futures,Return,General
+CTOTUSD Index,CTOTUSD,Citi TOT US Measures the relative performance of commodity export and import prices. Positive means export prices have out-performed import prices,Abs,US
+BCOM Index,BCOM_Index,Bloomberg Commodity Index 1 M Fwd,Return,General
+MIRUREIT Index,MSCI_World_RealEstate,MSCI World Real Estate,Return,Global
+CTOTZAR Index,CTOTZAR,Citi TOT ZA Measures the relative performance of commodity export and import prices. Positive means export prices have out-performed import prices,Abs,SA
+US0012M Index,Libor_12M,Libor 12 M Index,delta,EU
+.G7FXVOL3 Index,G7_Curncy_IV_Basket,EW of G7 currency 3M Implied Vols ATM,Return,DM
+USCRWTIC Index,OilWTI_Spot,Oil WTI Spot,Return,General
+EPUCGLCP Index,GlobalEconUnc,Global Economic Policy Uncertainty Index _ Baker Bloom Davis,Return,General
+CTOTCNY Index,CTOTCNY,Citi TOT China Measures the relative performance of commodity export and import prices. Positive means export prices have out-performed import prices,Abs,China
+CRY Index,CRY_Index,The TR/CC CRB Excess Return Index is an arithmetic average of commodity futures prices with monthly rebalancing. CRB <Help> for description of index calculation. CCI Index for pricing to index re-construction.,Return,General
+USGGBE01 Index,USBEInfl_1Y,US Break-even Inflation rates_calc subtracting real yield of inflation linked bonds from the yielkd of the closest nominal Treasury maturity. Result is the implied inflation rate,delta,US
+EPUCNUSD Index,USEconUnc,US Economic Policy Uncertainty Index _ Baker Bloom Davis,Return,US
+EUDRC Index,EUDRC,Euro 3M Deposit,delta,DM
+USGGBE10 Index,USBEInfl_10Y,US Break-even Inflation rates_calc subtracting real yield of inflation linked bonds from the yielkd of the closest nominal Treasury maturity. Result is the implied inflation rate,delta,US
+JGAGGUSD Index,JGAGGUSD,JPM Global Aggregate Bond - TR Unhedged USD,Return,Global
+EPUCCEUM Index,EUEconUnc,EU Economic Policy Uncertainty Index _ Baker Bloom Davis,Return,EU
+GTEUR3M Govt,GTEUR3M,Generic Eurozone 3M Govt Bond,delta,DM
+FWISEU55 Index,EUInflSwop5Y5Y,EU Inflation swap 5y5y_Measuring markets view on future inflation expectations in Euro,delta,EU
+BGSV Index,BGSV,Bloomberg Global Developed World Sovereign Bond,Return,DM
+BBDXY Index,USD_DollarStrength,USD Strength_Based on a basket of ten leading global currencies vs USD. Basket weight is determined annually based on share of international trade and FX Liquidity,Return,US
+FWISUS55 Index,USInflSwop5Y5Y,US Inflation swap 5y5y_Measuring markets view on future inflation expectations in Euro,delta,US
+EUR003M Index,EURBond3M,EU 3M Bond Index,delta,EU
+CVICMRIS Index,CVICMRIS,Citi Short-Term RA Index.,delta,Global
+JPMVXYGL Index,Global_IV,"JPM VXY indexes follow aggregate volatility in currencies through a turnover-weighted index of G7 and emerging market volatility, based on three-month at-the-money forward options. The indexes are designed to allow investors to measure aggregate risk premiums in currency markets",Return,Global
+BRIT Index,BRIT,Bloomberg UK Sovereign Bond,Return,DM
+US0003M Index,USBond3M,US 3M Bond Index,delta,US
+ERIXITEU Index,ERIXITEU,Markit iTraxx Europe Main 5-year Excess Return,Return,EU
+DBHVG10U index,DB_G10_CurrencyHarvest,"Global Carry Index. The Deutsche Bank Currency Harvest Indices track the performance of a portfolio that systematically invests in a diversified basket of high yielding currencies, funded by going short a diversified basket of low yielding currencies. This is the benchmark Currency
+Harvest Index. The strategy is
+to invest in the 5 highest yielding
+currencies and to go short the 5
+lowest yielding currencies regardless
+of their geographic region. http://globalmarkets.db.com/new/docs/Harvest-Mar2008.pdf",Return,DM
+FEDL01 Index,FEDL01,US Federal Funds Effective Rate,delta,US
+EMUSTRUU Index,EMUSTRUU,Bbg Barclays EM USD Hard Currency Agg TRI is a hard currency EM debt benchmark that includes USD denominated debt from Sovereign and corporate EM issuers.,Return,EM
+ITRXTX5I Index,ITRXTX5I,iTraxx Crossover 5 Year Total Return,Return,Global
+BEMS Index,BEMS,Bloomberg USD Emerging Market Sovereign Bond,Return,EM
+DBHVGUSI index,DB_Global_Carry_Index,"Global Carry Index. The Deutsche Bank Currency Harvest Indices track the performance of a portfolio that systematically invests in a diversified basket of high yielding currencies, funded by going short a diversified basket of low yielding currencies. This is the benchmark Currency
+Harvest Index. The strategy is
+to invest in the 5 highest yielding
+currencies and to go short the 5
+lowest yielding currencies regardless
+of their geographic region. http://globalmarkets.db.com/new/docs/Harvest-Mar2008.pdf",Return,Global
+SACBLI Index,SACBLI,SA Leading Indicator Bus Cycle,Return,SA
+SACTGDP Index,SACAD,SA CAD,Return,SA
+USGG3M Index,USGG3M,US Generic Govt 3 Month Yield,delta,US
+DBPPPUSF Index,DB_Global_PPP_Index,"Currencies are ranked by Valuation defined by PPP. I.e. betting that currencies go back to fair value over time. Long undervalued,, short overvalued currencies based on PPP versus US. See http://globalmarkets.db.com/new/docs/dbCurrencyReturns_March2009.pdf for details.",Return,DM
+JPMVXYG7 Index,G7_IV,"JPM VXY indexes follow aggregate volatility in currencies through a turnover-weighted index of G7 and emerging market volatility, based on three-month at-the-money forward options. The indexes are designed to allow investors to measure aggregate risk premiums in currency markets",Return,DM
+SAEQ Index,SAEQ,SA Eqty Sales to Foreigners,Return,SA
+DBMOMUSF Index,DB_Global_Mom_Index,Currencies are ranked by Momentum. See http://globalmarkets.db.com/new/docs/dbCurrencyReturns_March2009.pdf for details.,Return,DM
+SABOTB Index,SABOT,SA Bond Sales to Foreigners,Return,SA
+SAVIUSD Index,SAVI_ZAR,SA JSE Dollar Rand Volatility Index,Return,SA
+MIDCAPTR Index,JSE Mid Cap,JSE Mid Cap,Return,SA
+TOP40TR Index,JSE Top 40,JSE Top 40,Return,SA
+ALBIP Index,ALBI_Index_USD,SA Bond Yield Index priced in Dollar: containing the top 20 vanilla bonds ranked by liquidity and market cap,Return,SA
+SAVIT40 Index,SAVI_Top40,SA VIX _ Annualized 3 month IV for ATM options on Top 40 index futures.,Return,SA
+J433PR Index,JSE_SWIX_Alsi,SWIX ALSI,Return,SA
+STEFI Index,STEFI,"Stefi index will approximate the performance of money market instruments in the market. Instruments such as Call Deposits and Negotiable Certificates of Deposits (NCD's) represent common, liquid instruments and provide a good proxy of short term markets. Base date is 1 October 2000.",Return,SA
+SAPMI Index,SAPMI,SA BER PMI,Return,SA
+J430PR Index,JSE_SWIX_Top40,SWIX top40,Return,SA
+JSAPYTR Index,JSE Listed Property,JSE Listed Property,Return,SA
+SAGGBE10 INDEX,SA_BE_Inf_10Y,SA BE Inflation,delta,SA
+JIBA3M Index,JIBA3M,SA 3M JIBA,delta,SA
+SAFS0110 Curncy,SA_Swap_10Y,"Interest Rate swaps_ For example, if an investor wants to hedge for a five-year duration beginning one year from today, this investor can enter into both a one-year and six-year swap, creating the forward swap that meets the needs of his or her portfolio.",delta,SA
+JALSHTR Index,JSE All Share,JSE All Share,Return,SA
+GTZARII10Y Govt,SAGB10Y,SA Generic 10Y Yield,delta,SA
+SATBAL Index,SATBAL,SA Balance of Trade,Return,SA
+SAFS0120 Curncy,SA_Swap_20Y,"Interest Rate swaps_ For example, if an investor wants to hedge for a five-year duration beginning one year from today, this investor can enter into both a one-year and six-year swap, creating the forward swap that meets the needs of his or her portfolio.",delta,SA
+SAFS0101 Curncy,SA_Swap_1Y,"Interest Rate swaps_ For example, if an investor wants to hedge for a five-year duration beginning one year from today, this investor can enter into both a one-year and six-year swap, creating the forward swap that meets the needs of his or her portfolio.",delta,SA
+RESI20TR Index,JSE Resources 10,JSE Resources 10,Return,SA
+REPSOU CDS USD SR 5Y D14 Corp,South Africa 5 year Credit Default Swap,SA CDS,Return,SA
+SAFS0102 Curncy,SA_Swap_2Y,"Interest Rate swaps_ For example, if an investor wants to hedge for a five-year duration beginning one year from today, this investor can enter into both a one-year and six-year swap, creating the forward swap that meets the needs of his or her portfolio.",delta,SA
+INDI25TR Index,JSE Industrial 25,JSE Industrial 25,Return,SA
+SAFS0103 Curncy,SA_Swap_3Y,"Interest Rate swaps_ For example, if an investor wants to hedge for a five-year duration beginning one year from today, this investor can enter into both a one-year and six-year swap, creating the forward swap that meets the needs of his or her portfolio.",delta,SA
+SAFS0105 Curncy,SA_Swap_5Y,"Interest Rate swaps_ For example, if an investor wants to hedge for a five-year duration beginning one year from today, this investor can enter into both a one-year and six-year swap, creating the forward swap that meets the needs of his or her portfolio.",delta,SA
+FINI15TR Index,JSE Financial 15,JSE Financial 15,Return,SA
+JSMLC Index,JSE Small Cap,JSE Small Cap,Return,SA

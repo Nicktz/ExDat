@@ -1,0 +1,43 @@
+Country,Spot,ShortName,Type1,Type2,Type3
+Russia,RUB Curncy,Rubel,EM,Tier1,Commodity
+South Africa,ZAR Curncy,Rand,EM,Tier1,Commodity
+Peru,PEN Curncy,Sol,EM,Tier1,NA
+Columbia,COP Curncy,Peso,EM,Tier1,NA
+Brazil,BRL Curncy,Real,EM,Tier1,Commodity
+Hong Kong,HKD Curncy,Dollar,EM,Tier1,Peg
+Chile,CLP Curncy,Peso,EM,Tier1,NA
+Taiwan,TWD Curncy,Dollar,EM,Tier1,NA
+India,INR Curncy,Rupee,EM,Tier1,NA
+Thailand,THB Curncy,Baht,EM,Tier1,NA
+Philipines,PHP Curncy,Peso,EM,Tier1,NA
+China,CNY Curncy,Renminbi,EM,Tier1,NA
+Argentina,ARS Curncy,Peso,EM,Tier1,NA
+Singapore,SGD Curncy,Dollar,EM,Tier1,NA
+Romania,RON Curncy,Leu,EM,Tier1,NA
+Bulgaria,BGN Curncy,lev,EM,Tier1,NA
+Czech,CZK Curncy,Koruna,EM,Tier1,NA
+Hungary,HUF Curncy,Forint,EM,Tier1,NA
+Malaysia,MYR Curncy,Ringgit,EM,Tier1,NA
+South Korea,KRW Curncy,Won,EM,Tier1,NA
+Poland,PLN Curncy,Zlotly,EM,Tier1,NA
+Mexico,MXN Curncy,Peso,EM,Tier1,NA
+Turkey,TRY Curncy,Lira,EM,Tier1,NA
+Norway,NOK Curncy,Krone,G10,Tier1,NA
+UK,GBP Curncy,Pound,G10,Tier1,NA
+EU,EUR Curncy,Euro,G10,Tier1,NA
+NZ,NZD Curncy,Dollar,G10,Tier1,Commodity
+Canada,CAD Curncy,Dollar,G10,Tier1,NA
+Denmark,DKK Curncy,Krone,G10,Tier1,NA
+Japan,JPY Curncy,Yen,G10,Tier1,NA
+Sweden,SEK Curncy,Krona,G10,Tier1,NA
+Australia,AUD Curncy,Dollar,G10,Tier1,Commodity
+Egypt,EGP Curncy,Pound,EM,Tier2,AfricaME
+Bostwana,BWP Curncy,Pula,EM,Tier2,AfricaME
+Ghana,GHS Curncy,Cedi,EM,Tier2,AfricaME
+Uganda,UGX Curncy,Shilling,EM,Tier2,AfricaME
+Nigeria,NGN Curncy,Naira,EM,Tier2,AfricaME
+Zambia,ZMW Curncy,Kwacha,EM,Tier2,AfricaME
+Israel,ILS Curncy,Shekel,EM,Tier2,AfricaME
+Saudi,SAR Curncy,Riyal,MiddleEast,Tier2,AfricaME
+UAE,AED Curncy,Dirham,MiddleEast,Tier2,AfricaME
+US,USD,Dollar,US,Tier1,NA
